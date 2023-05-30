@@ -268,9 +268,9 @@ Vue.component('connect', {
 
 
 <form class="form">
-<input type="text" class="name" placeholder="Enter Your name">
+<input type="text" class="name" placeholder="Введите Ваше имя">
 <img src="images/line_form_adress.png" alt="" class="name-line-img">
-<input type="text" class="adress" placeholder="Enter a valid address">
+<input type="email" class="adress" placeholder="Введите ваш e-mail">
 <img src="images/line_form_adress.png" alt="" class="name-line-img">
 <button class="button button_form"><div class="сonnect-container-info-form-button"> ОТПРАВИТЬ</div></button>
 </form>
